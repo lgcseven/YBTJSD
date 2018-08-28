@@ -18,8 +18,10 @@
 #### 网络简单配置
 <br>1、<a href="https://www.cnblogs.com/jpfss/p/8616613.html" target="_blank">VirtualBox的四种网络连接方式</a>
 <br>2、<a href="https://www.cnblogs.com/lcword/p/8094345.html" target="_blank">Linux网络基本网络配置方法介绍</a>
+<br>3、<a href="https://blog.csdn.net/freeking101/article/details/77962312" target="_blank">NAT详解</a>
 #### 硬件信息查看
 <br>1、<a href="https://www.cnblogs.com/losbyday/p/5842661.html" target="_blank">Linux查看系统硬件信息</a>
 <br>2、<a href="https://blog.csdn.net/oyhb_1992/article/details/77715346" target="_blank">/proc路径下有些什么？</a>
+<br>3、<a href="https://www.2cto.com/os/201411/354888.html" target="_blank">/Linux下的tmpfs文件系统</a>
 #### Linux目录结构
 <br>1、<a href="https://www.cnblogs.com/CoderJYF/p/6092604.html" target="_blank">Linux系统目录结构以及简单说明</a>
